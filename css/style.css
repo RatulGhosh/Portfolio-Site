@@ -28,23 +28,23 @@ body {
 }
 
 .copy-right{
-background:#FFF59D;
-padding:17px 0;
+	background:#FFF59D;
+	padding:17px 0;
 }
 
 .copy-right p{
-text-align:center;
-margin:0 0 0px 0;
-font-size:14px;
-color: #212121;
-font-weight:600;
+	text-align:center;
+	margin:0 0 0px 0;
+	font-size:14px;
+	color: #212121;
+	font-weight:600;
 }
 
 .copy-right p a{
-text-decoration:none;
-color: ##3E2723;
+	text-decoration:none;
+	color: ##3E2723;
 }
 
 .copy-right p a:hover{
-color:#76b852;
+	color:#76b852;
 }

@@ -1,0 +1,50 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #676858;
+	font-weight: 300;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+	opacity: 0.9;
+}
+
+.title-logo:hover {
+	transform: scale(1.05, 1.05);
+	opacity: 1;
+}
+
+.copy-right{
+background:#FFF59D;
+padding:17px 0;
+}
+
+.copy-right p{
+text-align:center;
+margin:0 0 0px 0;
+font-size:14px;
+color: #212121;
+font-weight:600;
+}
+
+.copy-right p a{
+text-decoration:none;
+color: ##3E2723;
+}
+
+.copy-right p a:hover{
+color:#76b852;
+}

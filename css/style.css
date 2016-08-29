@@ -1,11 +1,11 @@
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #676858;
 	font-weight: 300;
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
 .text-thin {
@@ -28,23 +28,23 @@ body {
 }
 
 .copy-right{
-	background:#FFF59D;
-	padding:17px 0;
+	background: #fff59d;
+	padding: 17px 0;
 }
 
-.copy-right p{
-	text-align:center;
-	margin:0 0 0px 0;
-	font-size:14px;
+.copy-right-text{
+	text-align: center;
+	margin: 0 0 0 0;
+	font-size: 14px;
 	color: #212121;
-	font-weight:600;
+	font-weight: 600;
 }
 
-.copy-right p a{
-	text-decoration:none;
-	color: ##3E2723;
+.copy-right-link{
+	text-decoration: none;
+	color: #3e2723;
 }
 
-.copy-right p a:hover{
-	color:#76b852;
+.copy-right-link:hover{
+	color: #76b852;
 }
